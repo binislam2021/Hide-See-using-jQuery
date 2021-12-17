@@ -29,13 +29,17 @@ h4{
     color: #fff;
 }
 
+#btns{
+    margin: 50px auto;
+    width: 1100px;
+}
+
 button{
     padding: 12px 30px;
     background: #66d;
     font-size: 25px;
     font-weight: bold;
     border: none;
-    margin: 100px 150px  50px 150px;
     color: #2ad100;
     border-radius: 5px;
     -webkit-border-radius: 5px;
